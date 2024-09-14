@@ -2,6 +2,14 @@
 
 ### Generate podcast with only AI. A [makereels.ai](https://makereels.ai) lab experiment  
 
+## Sample
+
+
+https://github.com/user-attachments/assets/4b6b89f9-1db3-48f5-a645-bdbd92c7151e
+
+
+
+
 ## Features
 
 - Fully automated using LLM and Generative TTS
